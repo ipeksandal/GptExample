@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "gz6wAa/rx5wM66Y+JO2DwlnHrTfyMHB8l4wo0KYxbsLxfse6vic1dWUlO0NT3YrUTjxAdwARW6rsITi9gZWLlQ==",
+  "success": true,
+  "projectFilePath": "/Users/ipek/RiderProjects/GptExample/GptExapmle.Persistance/GptExapmle.Persistance.csproj",
+  "expectedPackageFiles": [
+    "/Users/ipek/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.3.24172.4/microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.3.24172.4/microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.3.24172.4/microsoft.entityframeworkcore.analyzers.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.0-preview.3.24172.4/microsoft.entityframeworkcore.relational.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.caching.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.3.24172.9/microsoft.extensions.caching.memory.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.configuration.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.3.24172.9/microsoft.extensions.dependencyinjection.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.3.24172.9/microsoft.extensions.logging.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.3.24172.9/microsoft.extensions.logging.abstractions.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.options/9.0.0-preview.3.24172.9/microsoft.extensions.options.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.3.24172.9/microsoft.extensions.primitives.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512",
+    "/Users/ipek/.nuget/packages/npgsql.entityframeworkcore.postgresql/9.0.0-preview.3/npgsql.entityframeworkcore.postgresql.9.0.0-preview.3.nupkg.sha512"
+  ],
+  "logs": []
+}

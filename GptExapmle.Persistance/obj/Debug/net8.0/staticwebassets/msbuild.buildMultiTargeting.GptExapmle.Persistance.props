@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/GptExapmle.Persistance.props" />
+</Project>

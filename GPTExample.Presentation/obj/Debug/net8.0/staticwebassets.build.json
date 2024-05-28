@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "xJtF7H25HB8SkF6jNMgDyhuahAnafzvefYx+W1ZpBG8=",
+  "Source": "GPTExample.Presentation",
+  "BasePath": "_content/GPTExample.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/ipek/RiderProjects/GptExample/GPTExample.Aplication/GPTExample.Aplication.csproj",
+      "Version": 2,
+      "Source": "GPTExample.Aplication",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

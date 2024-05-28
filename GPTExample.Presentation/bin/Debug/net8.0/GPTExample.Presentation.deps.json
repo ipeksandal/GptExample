@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GPTExample.Presentation/1.0.0": {
+        "dependencies": {
+          "GPTExample.Aplication": "1.0.0"
+        },
+        "runtime": {
+          "GPTExample.Presentation.dll": {}
+        }
+      },
+      "GPTExample.Aplication/1.0.0": {
+        "runtime": {
+          "GPTExample.Aplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPTExample.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GPTExample.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
